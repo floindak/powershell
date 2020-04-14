@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GOROOT" path="/usr/lib/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1aX9ptxM70cffExHB4gfklIWccq" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="187" width="797" height="586" key="find.popup" timestamp="1586871275526">
+      <screen x="0" y="0" width="1920" height="959" />
+    </state>
+    <state x="561" y="187" width="797" height="586" key="find.popup/0.0.1920.959@0.0.1920.959" timestamp="1586871275526" />
+  </component>
+</project>
